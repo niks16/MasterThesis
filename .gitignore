@@ -2,3 +2,5 @@
 */.ipynb_checkpoints/*
 .DS_Store
 */.DS_Store
+/Data/Raw_Data/*
+/Data/Cleaned_Data/*
